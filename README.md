@@ -56,3 +56,14 @@ RScript created a lot_summary dataframe to group each manufacturing lot by the m
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. According to total_summary, the Variance is 62.29356, which meets the design specificatio. But when considering the lot summary, the variance of Lot 3 170.28 which is above 100, so it does not meet the specification individually. 
 
+### III. T-Tests on Suspension Coils
+
+T-test is used to compare the mean of one dataset to another under a few assumptions. 
+
+First RScript is written for t-test that compares all manufacturing lots against mean PSI of the population. Three more RScripts are written to determine if the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
+
+The figure below shows the outcome altogther. 
+
+
+
+
