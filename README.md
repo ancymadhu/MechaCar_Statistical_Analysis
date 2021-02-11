@@ -64,6 +64,6 @@ First RScript is written for t-test that compares all manufacturing lots against
 
 The figure below shows the outcome altogther. 
 
-
+![e](https://user-images.githubusercontent.com/73450637/107693347-032da680-6c7c-11eb-909a-ebe54f7631ac.png)
 
 
