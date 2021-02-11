@@ -69,3 +69,23 @@ The figure below shows the outcome altogther.
 From this we can conclude that the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
 
 ### IV. Study Design: MechaCar vs Competition
+
+Inorder to quantify how MechaCar performs against competition, a study can be designed that involves *metrics like city or highway fuel efficiency or safety rating.
+
+###### Hypothesis: Null and Alternative
+
+After determining which factors are key for the MechaCar's genre:
+
+* Null Hypothesis (Ho): MechaCar is priced correctly based on its performance of key factors for its genre.
+* Alternative Hypothesis (Ha): MechaCar is NOT priced correctly based on performance of key factors for its genre.
+
+
+###### Statistical Test for Hypothesis
+
+The choice is analysis of variance (ANOVA) test, which is used to compare the means of a continuous numerical variable across a number of groups (or factors in R). Depending on your dataset and questions you wish to answer, an ANOVA can be used in multiple ways and that is the reason why I prefer this test. 
+
+
+###### Data Needed to Run Statistical Test
+
+* Fuel efficiency of top brand cars in city and highway.
+* Safety rating of each brands. 
