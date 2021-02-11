@@ -66,4 +66,6 @@ The figure below shows the outcome altogther.
 
 ![e](https://user-images.githubusercontent.com/73450637/107693347-032da680-6c7c-11eb-909a-ebe54f7631ac.png)
 
+From this we can conclude that the PSI for each manufacturing lot is statistically different from the population mean of 1,500 pounds per square inch.
 
+### IV. Study Design: MechaCar vs Competition
