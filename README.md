@@ -13,7 +13,7 @@ To perform:
 
 * Language: R
 * Software: RStudio
-* Library: dplyr 
+* Library: dplyr, tidyverse
 * Data Sources: MechaCar MPG dataset, Suspension Coil dataset
 
 ## Technical Analysis
